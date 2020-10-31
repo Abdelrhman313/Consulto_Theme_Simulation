@@ -966,7 +966,7 @@ button.nav-collapse.d-lg-none span {
 
 @media(max-width:574px) {
     .header .owl-carousel .owl-dots {
-        bottom: 50px;
+        bottom: 10%;
     }
 }
 
